@@ -1,2 +1,3 @@
 # githubinit
 init
+hello github
